@@ -1,0 +1,44 @@
+h1 { 
+  color: #22577A;
+}
+
+a {
+  color: #38A3A5;
+}
+
+#link_buy_phone {
+  color: #57CC99;
+}
+
+#link_buy_phone:hover {
+  color: orange;
+}
+
+#selected_page {
+  font-weight: bold;
+}
+
+#prestations {
+  border: 1px solid #80ED99;
+  padding: 20px;
+  border-radius: 15px;
+  color: #38A3A5;
+  background-color: #C7F9CC;
+  box-shadow: 5px 15px 8px grey;
+  margin-bottom: 30px;
+  margin-right: 10px;
+}
+
+.special_color {
+  color: #80ED99;
+}
+
+h2.special_color {
+  text-decoration: underline wavy;
+}
+
+#email {
+  background-color: orange;
+  color: black;
+  padding: 5px;
+}
